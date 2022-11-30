@@ -1,0 +1,12 @@
+C:\Users\monik\Desktop\StringCalculator\StringCalculator\bin\Debug\net6.0\StringCalculator.deps.json
+C:\Users\monik\Desktop\StringCalculator\StringCalculator\bin\Debug\net6.0\StringCalculator.dll
+C:\Users\monik\Desktop\StringCalculator\StringCalculator\bin\Debug\net6.0\StringCalculator.pdb
+C:\Users\monik\Desktop\StringCalculator\StringCalculator\obj\Debug\net6.0\StringCalculator.csproj.AssemblyReference.cache
+C:\Users\monik\Desktop\StringCalculator\StringCalculator\obj\Debug\net6.0\StringCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monik\Desktop\StringCalculator\StringCalculator\obj\Debug\net6.0\StringCalculator.AssemblyInfoInputs.cache
+C:\Users\monik\Desktop\StringCalculator\StringCalculator\obj\Debug\net6.0\StringCalculator.AssemblyInfo.cs
+C:\Users\monik\Desktop\StringCalculator\StringCalculator\obj\Debug\net6.0\StringCalculator.csproj.CoreCompileInputs.cache
+C:\Users\monik\Desktop\StringCalculator\StringCalculator\obj\Debug\net6.0\StringCalculator.dll
+C:\Users\monik\Desktop\StringCalculator\StringCalculator\obj\Debug\net6.0\refint\StringCalculator.dll
+C:\Users\monik\Desktop\StringCalculator\StringCalculator\obj\Debug\net6.0\StringCalculator.pdb
+C:\Users\monik\Desktop\StringCalculator\StringCalculator\obj\Debug\net6.0\ref\StringCalculator.dll
